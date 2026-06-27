@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bakery-50: #fffbeb;
+  --color-bakery-100: #fef3c7;
+  --color-bakery-200: #fde68a;
+  --color-bakery-300: #fcd34d;
+  --color-bakery-400: #fbbf24;
+  --color-bakery-500: #f59e0b;
+  --color-bakery-600: #d97706;
+  --color-bakery-700: #b45309;
+  --color-bakery-800: #92400e;
+  --color-bakery-900: #78350f;
+  --color-warm: #faf6f1;
+  --color-warm-dark: #f0e6d8;
+  --font-sans: var(--font-geist-sans);
+  --font-serif: var(--font-playfair);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-warm);
+  color: var(--color-foreground, #1c1917);
+}

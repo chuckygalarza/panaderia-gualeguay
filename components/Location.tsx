@@ -44,7 +44,7 @@ export default function Location() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Ubicación de Panadería Gualeguay"
+              title="Ubicación de Croissant"
             />
           </div>
         </div>

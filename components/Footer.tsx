@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="flex items-center gap-2 mb-4">
             <Wheat className="h-6 w-6 text-bakery-400" />
             <span className="font-serif text-xl font-bold text-white">
-              Panadería Gualeguay
+              Croissant
             </span>
           </div>
           <p className="text-sm text-bakery-300">
@@ -52,7 +52,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="max-w-6xl mx-auto mt-10 pt-6 border-t border-bakery-800 text-center text-sm text-bakery-400">
-        &copy; {new Date().getFullYear()} Panadería Gualeguay. Todos los
+        &copy; {new Date().getFullYear()} Croissant. Todos los
         derechos reservados.
       </div>
     </footer>

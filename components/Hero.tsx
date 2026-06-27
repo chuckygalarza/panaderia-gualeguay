@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black/50" />
       <div className="relative z-10 text-center px-4 max-w-3xl">
         <h1 className="font-serif text-5xl md:text-7xl font-bold text-white mb-6">
-          Panadería Gualeguay
+          Croissant
         </h1>
         <p className="text-lg md:text-2xl text-white/90 mb-10">
           El sabor de lo artesanal, horneado con tradición todos los días en el

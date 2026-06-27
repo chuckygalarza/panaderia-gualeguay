@@ -20,11 +20,11 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Panadería Gualeguay | Pan artesanal de pueblo",
+  title: "Croissant | Pan artesanal de Gualeguay",
   description:
-    "Panadería artesanal en Gualeguay, Entre Ríos. Panes, facturas y medialunas horneadas con tradición y amor.",
+    "Pan artesanal en Gualeguay, Entre Ríos. Croissants, facturas y panes horneados con tradición y amor.",
   openGraph: {
-    title: "Panadería Gualeguay",
+    title: "Croissant",
     description:
       "Pan artesanal de pueblo, horneado con tradición todos los días.",
     locale: "es_AR",

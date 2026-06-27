@@ -19,7 +19,7 @@ export default function Header() {
       <nav className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         <a href="#hero" className="flex items-center gap-2 text-bakery-800 font-bold text-xl">
           <Wheat className="h-6 w-6 text-bakery-600" />
-          <span className="font-serif">Panadería Gualeguay</span>
+          <span className="font-serif">Croissant</span>
         </a>
 
         <button

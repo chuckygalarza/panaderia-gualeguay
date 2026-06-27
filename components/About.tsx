@@ -17,7 +17,7 @@ export default function About() {
             Hechos con amor, desde Gualeguay
           </h2>
           <p className="text-gray-700 text-lg leading-relaxed mb-4">
-            En Panadería Gualeguay honramos la tradición panadera de nuestro
+            En Croissant honramos la tradición panadera de nuestro
             pueblo. Cada mañana, antes de que salga el sol, nuestras manos
             artesanas amasan con dedicación los mejores ingredientes para llevar
             a tu mesa el pan de cada día.
